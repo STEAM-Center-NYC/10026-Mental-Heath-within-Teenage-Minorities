@@ -1,4 +1,9 @@
-.main{
+.maincontent{
+    max-width: 980px;
+    margin-bottom: 50px;
     margin: auto;
-
+    padding: 1em;
+    padding-top: 2em;
+    box-sizing: border-box;
+    border: #f7f7f7;
 }
