@@ -17,3 +17,31 @@ body{
     border: #f7f7f7;
     font-family: 'Playfair Display', serif;
 }
+.h1home{
+    padding: 1.5em;
+}
+a{
+    text-decoration: none;
+    display: block;
+    color: black;
+    padding: 15px;
+    cursor: pointer;
+    max-width: fit-content;
+    list-style: none;
+ }
+  
+ .button{
+    text-size-adjust: 25px;
+    text-decoration: none;
+    color: black;
+    background-color: #11caf0;
+    border-radius: 100%;
+    margin-left: 25px;
+ }
+ .button:hover{
+    text-transform: uppercase;
+    color: black;
+    border-radius: 50%;
+    background-color: blue;
+ }
+ 
