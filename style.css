@@ -31,17 +31,15 @@ a{
  }
   
  .button{
-    text-size-adjust: 25px;
+    font-size: 19px;
     text-decoration: none;
     color: black;
     background-color: #11caf0;
-    border-radius: 100%;
-    margin-left: 25px;
+    margin-left: 40px;
  }
  .button:hover{
     text-transform: uppercase;
     color: black;
-    border-radius: 50%;
-    background-color: blue;
+    background-color: #34d2eb;
  }
  
