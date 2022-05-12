@@ -31,15 +31,37 @@ a{
  }
   
  .button{
-    font-size: 19px;
+    float: left;
+    font-size: 21px;
     text-decoration: none;
     color: black;
-    background-color: #11caf0;
-    margin-left: 40px;
+    background-color:#5b7887;
+    margin-left: 30px;
+    vertical-align: center;
  }
  .button:hover{
     text-transform: uppercase;
     color: black;
-    background-color: #34d2eb;
+    background-color: #919191;
  }
- 
+ .button2{
+    float: left;
+    font-size: 21px;
+    text-decoration: none;
+    color: black;
+    background-color: #5b7887;
+    margin-left: 55px;
+    margin-top: 28px;
+    vertical-align: center;
+ }
+ .button2:hover{
+    text-transform: uppercase;
+    color: black;
+    background-color: #919191;
+ }
+ .p1home{
+     vertical-align: center;
+ }
+ .p2home{
+     padding: 1.5em;
+ }
