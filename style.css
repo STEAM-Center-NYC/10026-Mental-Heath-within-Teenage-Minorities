@@ -87,9 +87,9 @@ a{
 .index-intro .jumbotron{
     padding: 100px 50px;
     margin: 0;
-    background-image: none;
-    background-size:cover;
-    background-repeat: no-repeat;
+    background-image: url(https://www.linkpicture.com/q/logo_559.png);
+    background-size:contain;
+    background-position: 200px 50px;
 }
 .index-intro .jumbotron h1{
     font-size: 40px;
