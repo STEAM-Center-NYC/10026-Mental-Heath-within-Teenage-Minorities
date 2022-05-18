@@ -82,14 +82,14 @@ a{
 }
 .index-intro{
     width: 100%;
-    background-color: #f1f1f1;
+    background-color: #d9d9d9;
 }
 .index-intro .jumbotron{
     padding: 100px 50px;
     margin: 0;
-    background-image: url(https://www.linkpicture.com/q/logo_559.png);
-    background-size:contain;
-    background-position: 200px 50px;
+    background: center / contain no-repeat url(https://www.linkpicture.com/q/logo1_1.png);
+    background-size:800px 400px;
+    
 }
 .index-intro .jumbotron h1{
     font-size: 40px;
