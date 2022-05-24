@@ -32,7 +32,18 @@ a{
     max-width: fit-content;
     list-style: none;
  }
-  
+ .button3{
+    font-size: 21px;
+    text-decoration: none;
+    color: black;
+    background-color:#ceac6e;
+    vertical-align: center;
+ }
+ .button3:hover{
+    text-transform: uppercase;
+    color: black;
+    background-color: #919191;
+ } 
  .button{
     float: left;
     font-size: 21px;
@@ -105,4 +116,10 @@ a{
 }
 .index-gallery p{
     text-align: center;
+}
+footer{
+    background-color: #212529;
+    padding-left: 50vh;
+    padding-right: 50vh;
+    color: white;
 }
